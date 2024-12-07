@@ -26,6 +26,10 @@ icon=/usr/share/icons/gnome/24x24/apps/utilities-terminal.png
 path=/usr/bin/gnome-terminal
 displayname=Gnome Terminal
 
+#BlaBla
+
+
+
 [launcher]
 icon=/usr/share/icons/gnome/24x24/apps/utilities-terminal.png
 path=@bindir@/weston-terminal
